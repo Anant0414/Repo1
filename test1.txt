@@ -1,0 +1,10 @@
+ Volume in drive D is LENOVO
+ Volume Serial Number is 4088-55EE
+
+ Directory of D:\Study\MyProject
+
+02/03/2018  12:20 PM    <DIR>          .
+02/03/2018  12:20 PM    <DIR>          ..
+02/03/2018  12:20 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,124,734,976 bytes free
